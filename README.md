@@ -2,4 +2,4 @@
 Example of README.md
 
 Αυτό είναι το αρχείο README.md που δημιούργησα στο Github
-Μαρία Γεωργιάδου
+Created by **Μαρία Γεωργιάδου**
